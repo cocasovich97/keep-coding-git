@@ -1,5 +1,5 @@
 Git our
-Our Git that is in the repos
+Git our that are in the repos
 Compressed be your commits
 Come to us your log
 Locally and remotely
@@ -8,4 +8,4 @@ Forgive our conflicts
 As we also forgive those of other geeks
 Don't let us fall into detached HEAD
 and free us from SVN
-GIT commit --amend
+git commit --amend
